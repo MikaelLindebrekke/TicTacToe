@@ -1,0 +1,8 @@
+
+œ
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ç—«Ò8ÿïâç1J$4e6d0cf1-b861-48f4-97e6-62caaeefe4ce
+°
+java:S1319:"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Æ†“8Ÿïâç1J$4001ed72-2900-448a-8424-4f064b498e63
+±
+java:S1319Q"iThe type of "boardMapping" should be an interface such as "Map" rather than the implementation "HashMap".(´·´üÿÿÿÿ8ùÀñâç1J$0f27ee3b-0f73-4655-b34e-f03ac0097459
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8ŠŸïâç1J$24afb0fd-45d0-4cf2-b31a-86a28cac143a
